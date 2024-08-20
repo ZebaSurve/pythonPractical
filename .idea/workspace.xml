@@ -4,23 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421f49a0-0e1b-45ae-8bc9-37520a1b2892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonPractical.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08Aug2024/LAb001.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_08Aug2024/LAb002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13Aug2024/Lab0014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13Aug2024/Lab0015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13Aug2024/Task1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13Aug2024/Task2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17Aug2024/Task 3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17Aug2024/Task4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17Aug2024/Task5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_17Aug2024/Task6.py" afterDir="false" />
+    <list default="true" id="421f49a0-0e1b-45ae-8bc9-37520a1b2892" name="Changes" comment="LAb002 Added">
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb006.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb013.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,19 +56,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.LAb001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab0015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task 3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.LAb001.executor": "Run",
+    "Python.LAb003.executor": "Run",
+    "Python.LAb004.executor": "Run",
+    "Python.LAb005.executor": "Run",
+    "Python.LAb006.executor": "Run",
+    "Python.LAb007.executor": "Run",
+    "Python.LAb008.executor": "Run",
+    "Python.LAb009.executor": "Run",
+    "Python.LAb010.executor": "Run",
+    "Python.LAb011.executor": "Run",
+    "Python.LAb012.executor": "Run",
+    "Python.LAb013.executor": "Run",
+    "Python.Lab0014.executor": "Run",
+    "Python.Lab0015.executor": "Run",
+    "Python.Task 3.executor": "Run",
+    "Python.Task1.executor": "Run",
+    "Python.Task2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -89,6 +96,15 @@
       <option name="presentableId" value="Default" />
       <updated>1723175185184</updated>
     </task>
+    <task id="LOCAL-00001" summary="LAb002 Added">
+      <option name="closed" value="true" />
+      <created>1724139789997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724139789997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -104,5 +120,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="LAb002 Added" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAb002 Added" />
   </component>
 </project>
