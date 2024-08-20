@@ -1,0 +1,5 @@
+print("Hello Zeba Welcome to python world")
+print("zeba", "arfa", "naim")
+print(2+2)
+print(2-2)
+print(2*2)
