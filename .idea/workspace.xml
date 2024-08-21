@@ -4,19 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="421f49a0-0e1b-45ae-8bc9-37520a1b2892" name="Changes" comment="LAb002 Added">
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb006.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb013.py" afterDir="false" />
+    <list default="true" id="421f49a0-0e1b-45ae-8bc9-37520a1b2892" name="Changes" comment="All the files for the 10th aug 2024 are added">
+      <change afterPath="$PROJECT_DIR$/src/ex_20Aug2024/TaAASA.PY.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20Aug2024/Task07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20Aug2024/Task08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_20Aug2024/Task09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_10Aug2024/LAb013.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_10Aug2024/LAb013.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,11 @@
     "Python.LAb013.executor": "Run",
     "Python.Lab0014.executor": "Run",
     "Python.Lab0015.executor": "Run",
+    "Python.TaAASA.PY.executor": "Run",
     "Python.Task 3.executor": "Run",
+    "Python.Task07.executor": "Run",
+    "Python.Task08.executor": "Run",
+    "Python.Task09.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -104,7 +102,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724139789997</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="All the files for the 10th aug 2024 are added">
+      <option name="closed" value="true" />
+      <created>1724144181093</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724144181093</updated>
+    </task>
+    <task id="LOCAL-00003" summary="All the files for the 10th aug 2024 are added">
+      <option name="closed" value="true" />
+      <created>1724144244614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724144244614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="LAb002 Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="LAb002 Added" />
+    <MESSAGE value="All the files for the 10th aug 2024 are added" />
+    <option name="LAST_COMMIT_MESSAGE" value="All the files for the 10th aug 2024 are added" />
   </component>
 </project>
